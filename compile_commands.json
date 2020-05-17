@@ -1,0 +1,8 @@
+[
+	{  "directory:": "/boot/home/Projects/Wordpress/Awesome/(Objects.Awesome)",
+	   "command": "",
+	   "file": "Awesome.rdef" },
+	{  "directory:": "/boot/home/Projects/Wordpress/Awesome/(Objects.Awesome)",
+	   "command": "g++ -c  -Wall -Wno-multichar -Wno-unknown-pragmas -Wno-ctor-dtor-privacy '/boot/home/Projects/Wordpress/Awesome/main.cpp' -o '/boot/home/Projects/Wordpress/Awesome/(Objects.Awesome)/main.o'",
+	   "file": "main.cpp" }
+]
